@@ -96,11 +96,11 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![BlockLearn](https://blog.blocklearn.xyz/wp-content/uploads/2020/03/cropped-pp_square-180x180.jpeg)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![BlockLearn](https://blog.blocklearn.xyz/wp-content/uploads/2020/03/0_rgb.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
