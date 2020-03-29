@@ -6,6 +6,10 @@ Here you can find sample main page.
 
 {{site.description}}
 
+{% if site.course_activated %}
+
+<iframe  name="jitsiConferenceFrame0" id="jitsiConferenceFrame0" allowfullscreen="true" style="height: 100%; width: 100%; border: 0px;" allow="camera; microphone" src="{{meeting_link}}"></iframe>
+{% endif %}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
