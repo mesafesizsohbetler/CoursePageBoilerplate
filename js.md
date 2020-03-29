@@ -7,7 +7,7 @@ document.getElementById("text").innerHTML = "Text added by JavaScript code";
 		ifrm.setAttribute('id', 'ifrm'); // assign an id
 
 		// to place before another page element
-		var el = document.getElementById('site-footer-owner');
+		var el = document.getElementByClassName('site-footer-owner');
 		el.parentNode.insertBefore(ifrm, el);
 
 		// assign url
