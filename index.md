@@ -9,7 +9,9 @@ Here you can find sample main page.
 {% if site.course_activated %}
 
 <iframe  name="jitsiConferenceFrame0" id="jitsiConferenceFrame0" allowfullscreen="true" style="height: 100%; width: 100%; border: 0px;" allow="camera; microphone" src="{{site.meeting_link}}"></iframe>
+
 {% endif %}
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
