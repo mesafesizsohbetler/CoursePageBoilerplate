@@ -8,13 +8,12 @@ Here you can find sample main page.
 
 
 <iframe  name="jitsiConferenceFrame0" id="jitsiConferenceFrame0" allowfullscreen="true" style="height: 100%; width: 100%; border: 0px;" allow="camera; microphone" src="https://meet.jit.si/deneme-5d82b1302fa7d100066d0c88#jitsi_meet_external_api_id=0&amp;config.getroomnode=undefined&amp;interfaceConfig.SHOW_JITSI_WATERMARK=false&amp;interfaceConfig.SHOW_WATERMARK_FOR_GUESTS=false&amp;"></iframe>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page).
 
 There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
