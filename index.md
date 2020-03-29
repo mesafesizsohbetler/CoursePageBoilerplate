@@ -6,7 +6,7 @@ Here you can find sample main page.
 
 {{site.description}}
 
-<iframe src="https://blog.blocklearn.xyz"></iframe>
+<iframe src="https://meet.jit.si/deneme-5d82b1302fa7d"></iframe>
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page).
