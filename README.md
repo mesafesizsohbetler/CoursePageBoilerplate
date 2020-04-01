@@ -1,32 +1,20 @@
 ## Welcome to BlockLearn Course Page Builder
 
-You can use the [editor on GitHub](https://github.com/anilseyrek/CoursePageBoilerplate/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Setup
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Simply fork this repository to your account.
+2. Go to your own repository settings, select `master-branch` in GitHub Pages tab.
+3. If you want to activate live meeting screen, go to [our meeting link generator](https://blocklearn.github.io/MeetingLinkGenerator/). Choose features you want to use in your meeting, then generate a meeting URL.
+4. Copy generated link, and paste it next to `meeting_link: ` variable in your own `_config.yml` file. Then change `course_activated` variable as `course_activated: true`.
+5. Your live course page is ready to use.
 
-```markdown
-Syntax highlighted code block
+If you want to disable live meeting section on your webpage, simply set `course_activated: false` in your `_config.yml` file.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We suggest that you should change the meeting link before every use.
 
 ### Support or Contact
 
