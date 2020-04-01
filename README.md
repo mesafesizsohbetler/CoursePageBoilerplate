@@ -16,6 +16,8 @@ If you want to disable live meeting section on your webpage, simply set `course_
 
 We suggest that you should change the meeting link before every use.
 
+![Boilerplate Animation](https://raw.githubusercontent.com/anilseyrek/CoursePageBoilerplate/master/images/CoursePageBoilerplate.gif)
+
 ### Support or Contact
 
 Having trouble with features? Contact us at our website [BlockLearn](https://new.blocklearn.xyz/#lp-text-three)
