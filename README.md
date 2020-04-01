@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 2. Go to your own repository settings, select `master-branch` in GitHub Pages tab.
 3. If you want to activate live meeting screen, go to [our meeting link generator](https://blocklearn.github.io/MeetingLinkGenerator/). Choose features you want to use in your meeting, then generate a meeting URL.
 4. Copy generated link, and paste it next to `meeting_link: ` variable in your own `_config.yml` file. Then change `course_activated` variable as `course_activated: true`.
-5. Your live course page is ready to use at \<username\>.github.io/\<CoursePageBoilerplate\> or \<username\>.github.io/\<YourNewProjectName\>.
+5. Your live course page is ready to use at the address such as  `\<username\>.github.io/\<CoursePageBoilerplate\>` or `\<username\>.github.io/\<YourNewProjectName\>`.
 
 If you want to disable live meeting section on your webpage, simply set `course_activated: false` in your `_config.yml` file.
 
