@@ -31,9 +31,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 <script src="js/md5.js"></script>
 <script>
-	console.log(md5("denemece"));
     function checkPassword() {
-        if (md5(document.getElementById('password').value) == '5a6d81ef4958c7881ccac2790cdafc0a') {
+        if (md5(document.getElementById('password').value) == 'e5de41104f19f37f622204945980f064') {
             document.getElementById('HIDDENDIV').style.display = 'block';
             document.getElementById('passw').style.display = 'none';
         } else {
