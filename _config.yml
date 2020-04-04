@@ -3,6 +3,6 @@ description: Create your own course page with live meeting feature in minutes
 theme: jekyll-theme-cayman
 google_analytics:
 meeting_link: 
-course_activated: false
+course_activated: true
 show_links: false
 show_mainpage_button: true
