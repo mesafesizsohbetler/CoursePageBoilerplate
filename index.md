@@ -10,11 +10,9 @@ Here you can find sample main page.
 
 <div id="passw">
         <div>
-
             <input type="password" id="password" onkeydown="if (event.keyCode == 13) document.getElementById('button').click()" />
             <!-- IMPORTANT! this part is so if you click enter, it works. -->
         </div>
-
         <div>
             <br/>
             <input id="button" type="button" value="Login" onclick="checkPassword()" />
