@@ -18,7 +18,8 @@ Here you can find sample main page.
             <input id="button" type="button" value="Login" onclick="checkPassword()" />
         </div>
     </div>
-<div id="HIDDENDIV" style="display: none;">
+<div id="HIDDENDIV" style="display: none;">t l
+        
 <iframe  name="jitsiConferenceFrame0" id="jitsiConferenceFrame0" allowfullscreen="true" style="min-height: 500px; width: 100%; border: 0px;" allow="camera; microphone" src="{{site.meeting_link}}"></iframe>
   </div>
 
@@ -32,7 +33,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 <script src="js/md5.js"></script>
 <script>
     function checkPassword() {
-        if (md5(document.getElementById('password').value) == 'e5de41104f19f37f622204945980f064') {
+        if (md5(document.getElementById('password').value) == '6d52d8398f90baafacd72fca28c340bb') {
             document.getElementById('HIDDENDIV').style.display = 'block';
             document.getElementById('passw').style.display = 'none';
         } else {
